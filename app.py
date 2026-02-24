@@ -4,7 +4,6 @@ import pandas as pd
 import numpy as np
 from scipy.optimize import minimize
 import plotly.graph_objects as go
-from IPython.display import Markdown
 
 # ==========================================
 # 1. 基础配置与数据下载 (解决 KeyError)
